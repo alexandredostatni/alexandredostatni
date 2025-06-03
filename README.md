@@ -1,7 +1,6 @@
 🧑‍💻 Alexandre Moreira
 DevOps Júnior | Entusiasta de Cloud, Automação e Infraestrutura como Código
 📍 Cachoeirinha, RS – Brasil
-LinkedIn • Instagram
 
 🚀 Sobre mim:
 
