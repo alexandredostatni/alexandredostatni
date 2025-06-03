@@ -1,5 +1,5 @@
-🧑‍💻 Alexandre Moreira
-DevOps Júnior | Entusiasta de Cloud, Automação e Infraestrutura como Código
+Alexandre Moreira
+DevOps Júnior | Entusiasta de Cloud, Automação e Infraestrutura como Código.
 📍 Cachoeirinha, RS – Brasil
 
 🚀 Sobre mim:
@@ -14,7 +14,7 @@ Atualmente estou estudando para as certificações:
 
 💡 GitHub Actions Certification
 
-🛠️ Tecnologias & Ferramentas
+🛠️ Tecnologias & Ferramentas:
 
 Cloud: AWS (EC2, S3, IAM, VPC, CloudWatch)
 
@@ -26,8 +26,7 @@ CI/CD: GitHub Actions
 
 Outros: Git, Python, Linux, Shell Script
 
-📌 Projetos em Destaque
-Aqui estão alguns projetos que mostram na prática as habilidades que estou desenvolvendo:
+📌 Aqui estão alguns projetos que mostram na prática as habilidades que estou desenvolvendo:
 
 | Projeto                                                                                               | Tecnologias            | Descrição                                                      |
 | ----------------------------------------------------------------------------------------------------- | ---------------------- | -------------------------------------------------------------- |
