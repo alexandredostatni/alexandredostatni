@@ -1,20 +1,22 @@
-Alexandre Moreira
+🧑‍💻 Alexandre Moreira
 DevOps Júnior | Entusiasta de Cloud, Automação e Infraestrutura como Código
-Cachoeirinha, RS – Brasil
+📍 Cachoeirinha, RS – Brasil
 LinkedIn • Instagram
 
-Sobre mim:
+🚀 Sobre mim:
+
 Sou apaixonado por tecnologia e estou construindo minha carreira como DevOps Engineer Júnior. Hoje, foco meus estudos em Cloud Computing, Containers, Infraestrutura como Código e CI/CD.
 
 Atualmente estou estudando para as certificações:
 
-AWS Certified Cloud Practitioner
+🧠 AWS Certified Cloud Practitioner
 
-AWS Certified Solutions Architect – Associate
+🛠️ AWS Certified Solutions Architect – Associate
 
-GitHub Actions Certification
+💡 GitHub Actions Certification
 
-Tecnologias & Ferramentas
+🛠️ Tecnologias & Ferramentas
+
 Cloud: AWS (EC2, S3, IAM, VPC, CloudWatch)
 
 Containers: Docker, Kubernetes (minikube)
@@ -33,10 +35,11 @@ infra-aws-terraform	Terraform, AWS	Infraestrutura como código: provisão de VPC
 pipeline-devops-github-actions	GitHub Actions, Docker	Pipeline CI/CD completo para build e deploy de aplicação.
 k8s-minikube-lab	Kubernetes, Helm	Projeto local com Minikube, deployment de app via Helm.
 
-Objetivos:
-Concluir certificações AWS e GitHub Actions em 2025
+🎯 Objetivos:
 
-Conseguir uma vaga como DevOps pleno até 2026
+📚 Concluir certificações AWS e GitHub Actions em 2025
 
-Publicar conteúdos técnicos sobre projetos e aprendizados
+💼 Conseguir uma vaga como DevOps pleno até 2026
+
+✍️ Publicar conteúdos técnicos sobre projetos e aprendizados
 
