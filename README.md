@@ -35,7 +35,7 @@ Outros: Git, Python, Linux, Shell Script
 
 🎯 Objetivos:
 
-📚 Concluir certificações AWS e GitHub Actions em 2025
+📚 Obter as certificações AWS Certified Cloud Practitioner e Solutions Architect - associate
 
 💼 Conseguir uma vaga como DevOps pleno até 2026
 
