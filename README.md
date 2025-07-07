@@ -12,8 +12,6 @@ Atualmente estou estudando para as certificações:
 
 🛠️ AWS Certified Solutions Architect – Associate
 
-💡 GitHub Actions Certification
-
 🛠️ Tecnologias & Ferramentas:
 
 Cloud: AWS (EC2, S3, IAM, VPC, CloudWatch)
