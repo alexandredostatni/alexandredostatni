@@ -1,4 +1,3 @@
-Alexandre Moreira
 DevOps Júnior | Entusiasta de Cloud, Automação e Infraestrutura como Código.
 📍 Cachoeirinha, RS – Brasil
 
