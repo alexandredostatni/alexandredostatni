@@ -1,4 +1,4 @@
-DevOps Júnior | Entusiasta de Cloud, Automação e Infraestrutura como Código.
+DevOps | Entusiasta de Cloud, Automação e Infraestrutura como Código.
 📍 Cachoeirinha, RS – Brasil
 
 🚀 Sobre mim:
@@ -36,7 +36,7 @@ Outros: Git, Python, Linux, Shell Script
 
 📚 Obter as certificações AWS Certified Cloud Practitioner e Solutions Architect - associate
 
-💼 Conseguir uma vaga como DevOps pleno até 2026
+💼 Conseguir uma vaga como DevOps até 2026
 
 ✍️ Publicar conteúdos técnicos sobre projetos e aprendizados
 
