@@ -21,6 +21,8 @@ IaC: Terraform
 
 CI/CD: GitHub Actions
 
+Observabilidade e Monitoramento: Prometheus, Grafana
+
 Outros: Git, Python, Linux, Shell Script
 
 📌 Aqui estão alguns projetos que mostram na prática as habilidades que estou desenvolvendo:
