@@ -20,20 +20,6 @@ Observabilidade: Prometheus, Grafana, Loki, New Relic
  Sistemas e scripts: Linux (Ubuntu), Bash, Shell Script, Python
 Certificações: Docker Foundations Professional Certificate, DevOps Essentials Professional Certificate e New Relic Verified Foundation.
  Aberto a oportunidades como Engenheiro DevOps Júnior, Cloud Engineer Júnior, Analista de Cloud Júnior, Analista de Infraestrutura Júnior e Cloud Operations Júnior, nos modelos remoto, híbrido ou presencial (Grande Porto Alegre).
-
-📌 Aqui estão alguns projetos que mostram na prática as habilidades que estou desenvolvendo:
-
-| Projeto                                                                                               | Tecnologias            | Descrição                                                      |
-| ----------------------------------------------------------------------------------------------------- | ---------------------- | -------------------------------------------------------------- |
-| [infra-aws-terraform](https://github.com/alexandredostatni/infra-aws-terraform)                       | Terraform, AWS         | Infraestrutura como código: provisão de VPC, subnets, EC2, S3. |
-| [pipeline-devops-github-actions](https://github.com/alexandredostatni/pipeline-devops-github-actions) | GitHub Actions, Docker | Pipeline CI/CD completo para build e deploy de aplicação.      |
-| [k8s-minikube-lab](https://github.com/alexandredostatni/k8s-minikube-lab)                             | Kubernetes, Helm       | Projeto local com Minikube, deployment de app via Helm.        |
-
-
-🎯 Objetivos:
-
-📚 Obter as certificações AWS Certified Cloud Practitioner e Solutions Architect - associate
-
 💼 Conseguir uma vaga como DevOps até 2026
 
 ✍️ Publicar conteúdos técnicos sobre projetos e aprendizados
