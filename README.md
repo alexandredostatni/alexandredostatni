@@ -1,29 +1,25 @@
-DevOps | Entusiasta de Cloud, Automação e Infraestrutura como Código.
-📍 Cachoeirinha, RS – Brasil
+Engenheiro DevOps Júnior e Cloud Engineer, formado em Engenharia de Software. Trabalho com AWS, Kubernetes, Terraform, Docker e CI/CD para criar infraestrutura automatizada, escalável e observável.
 
-🚀 Sobre mim:
+Nos meus projetos práticos, publicados no GitHub, construo de ponta a ponta o ciclo de entrega de aplicações em nuvem: do provisionamento da infraestrutura como código ao deploy e ao monitoramento em Kubernetes.
 
-Sou apaixonado por tecnologia e estou construindo minha carreira como DevOps Engineer Júnior. Hoje, foco meus estudos em Cloud Computing, Containers, Infraestrutura como Código e CI/CD.
+O que já entreguei:
+• Pipelines de CI/CD com GitHub Actions (lint, testes, build de imagem Docker e deploy no Kubernetes), reduzindo o tempo de entrega em 40%.
+• Cultura GitOps com ArgoCD e Helm, com repositórios GitHub como fonte única de verdade.
+• Clusters Kubernetes (Amazon EKS e RKE2) gerenciados do deploy ao monitoramento.
+• Stack de observabilidade com Prometheus Operator, Grafana e Grafana Loki.
+• Infraestrutura AWS provisionada com Terraform (IaC) e servidores configurados com Ansible.
+• Automação de rotinas de cluster e cloud com AWS CLI, Bash/Shell Script e Python.
+• Troubleshooting de APIs e aplicações em ambiente AWS e Kubernetes.
 
-Atualmente estou estudando para as certificações:
-
-🧠 AWS Certified Cloud Practitioner
-
-🛠️ AWS Certified Solutions Architect – Associate
-
-🛠️ Tecnologias & Ferramentas:
-
-Cloud: AWS (EC2, S3, IAM, VPC, CloudWatch)
-
-Containers: Docker, Kubernetes (minikube)
-
-IaC: Terraform
-
-CI/CD: GitHub Actions
-
-Observabilidade e Monitoramento: Prometheus, Grafana
-
-Outros: Git, Python, Linux, Shell Script
+Competências técnicas:
+Cloud: AWS (EKS, S3, VPC, RDS, Lambda, IAM, CloudWatch, WAF, Amplify)
+ Containers e orquestração: Docker, Kubernetes, Helm
+IaC: Terraform, Ansible
+ CI/CD e GitOps: GitHub Actions, ArgoCD, Git
+Observabilidade: Prometheus, Grafana, Loki, New Relic
+ Sistemas e scripts: Linux (Ubuntu), Bash, Shell Script, Python
+Certificações: Docker Foundations Professional Certificate, DevOps Essentials Professional Certificate e New Relic Verified Foundation.
+ Aberto a oportunidades como Engenheiro DevOps Júnior, Cloud Engineer Júnior, Analista de Cloud Júnior, Analista de Infraestrutura Júnior e Cloud Operations Júnior, nos modelos remoto, híbrido ou presencial (Grande Porto Alegre).
 
 📌 Aqui estão alguns projetos que mostram na prática as habilidades que estou desenvolvendo:
 
