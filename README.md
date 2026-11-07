@@ -20,7 +20,4 @@ Observabilidade: Prometheus, Grafana, Loki, New Relic
  Sistemas e scripts: Linux (Ubuntu), Bash, Shell Script, Python
 Certificações: Docker Foundations Professional Certificate, DevOps Essentials Professional Certificate e New Relic Verified Foundation.
  Aberto a oportunidades como Engenheiro DevOps Júnior, Cloud Engineer Júnior, Analista de Cloud Júnior, Analista de Infraestrutura Júnior e Cloud Operations Júnior, nos modelos remoto, híbrido ou presencial (Grande Porto Alegre).
-💼 Conseguir uma vaga como DevOps até 2026
-
-✍️ Publicar conteúdos técnicos sobre projetos e aprendizados
 
